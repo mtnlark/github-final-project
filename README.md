@@ -14,4 +14,4 @@ _r_, annual rate of interest
 
 Output:
 
-simple interest = _p_*_t_*_r_
+simple interest = p*t*r
